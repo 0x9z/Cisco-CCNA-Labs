@@ -11,11 +11,11 @@
 
 ## 📂 Lab Index
 
-| # | Lab | Status |
+| # | Labs | Links |
 |---|-----|--------|
-| 01 | Basic Router Security 1 | ✅ Completed |
-| 02 | Basic Router Security 2 | ⏳ Pending |
-| 03 | Basic Router Security 3 | ⏳ Pending |
+| 01 | Basic Router Security 1 | [Link]() |
+| 02 | Basic Router Security 2 | [Link]() |
+| 03 | Basic Router Security 3 | [Link]() |
 
 ---
 
