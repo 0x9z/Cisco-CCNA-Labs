@@ -39,6 +39,9 @@ no service password-encryption
 do show running-config | include enable password
 ```
 
+## Topology
+[Lab-1 Topology](https://github.com/0x9z/Cisco-CCNA-Labs/blob/main/Basic-Router-Security/Lab-1/Disable-password-encryption.png)
+
 ## 🧠 What I Learned
 
     enable password is stored in plain text by default.
