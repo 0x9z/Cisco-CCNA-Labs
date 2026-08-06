@@ -6,7 +6,7 @@
 ## 📊 Progress
 
 - **Total Labs:** 76
-- **Completed:** 1 / 76
+- **Completed:** 3 / 76
 - **Status:** In Progress 🚧
 
 ## 📂 Lab Index
