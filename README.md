@@ -15,7 +15,7 @@
 |---|-----|--------|
 | 01 | Basic Router Security 1 | [Link](https://github.com/0x9z/Cisco-CCNA-Labs/tree/main/Basic-Router-Security/Lab-1) |
 | 02 | Basic Router Security 2 | [Link](https://github.com/0x9z/Cisco-CCNA-Labs/tree/main/Basic-Router-Security/Lab-2) |
-| 03 | Basic Router Security 3 | [Link]() |
+| 03 | Basic Router Security 3 | [Link](https://github.com/0x9z/Cisco-CCNA-Labs/tree/main/Basic-Router-Security/Lab-3) |
 
 ---
 
