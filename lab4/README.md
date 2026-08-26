@@ -41,3 +41,5 @@ Full connectivity confirmed — PCs on both sides of the network (behind R1 and 
 
 ## Tools
 Cisco Packet Tracer 8.x
+
+##Download the lab [here](https://github.com/0x9z/Cisco-CCNA-Labs/raw/refs/heads/main/lab4/Lab4-VLSM.pkt)
