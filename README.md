@@ -6,7 +6,7 @@
 ## 📊 Progress
 
 - **Total Labs:** 76
-- **Completed:** 3 / 76
+- **Completed:** 5 / 76
 - **Status:** In Progress 🚧
 
 ## 📂 Lab Index
@@ -17,6 +17,8 @@
 | 02 | Basic Router Security 2             | [Link](https://github.com/0x9z/Cisco-CCNA-Labs/tree/main/Basic-Router-Security/Lab-2) |
 | 03 | Basic Router Security 3             | [Link](https://github.com/0x9z/Cisco-CCNA-Labs/tree/main/Basic-Router-Security/Lab-3) |
 | 04 | VLSM Multi-LAN Enterprise Network 1 | [Link](https://github.com/0x9z/Cisco-CCNA-Labs/tree/main/VLSM%20Labs/VLSM-Lab1) |
+| 05 | Static Routing Lab 1                | [Link](https://github.com/0x9z/Cisco-CCNA-Labs/tree/main/Static%20Routing%20Labs) |
+
 
 ---
 
