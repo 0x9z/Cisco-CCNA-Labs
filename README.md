@@ -17,7 +17,7 @@
 | 02 | Basic Router Security 2             | [Link](https://github.com/0x9z/Cisco-CCNA-Labs/tree/main/Basic-Router-Security/Lab-2) |
 | 03 | Basic Router Security 3             | [Link](https://github.com/0x9z/Cisco-CCNA-Labs/tree/main/Basic-Router-Security/Lab-3) |
 | 04 | VLSM Multi-LAN Enterprise Network 1 | [Link](https://github.com/0x9z/Cisco-CCNA-Labs/tree/main/VLSM%20Labs/VLSM-Lab1) |
-| 05 | Static Routing Lab 1                | [Link](https://github.com/0x9z/Cisco-CCNA-Labs/tree/main/Static%20Routing%20Labs) |
+| 05 | Static Routing Lab 1                | [Link](https://github.com/0x9z/Cisco-CCNA-Labs/tree/main/Static%20Routing%20Labs/Static%20Routing%20Lab1) |
 
 
 ---
