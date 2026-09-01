@@ -1,8 +1,5 @@
 # CCNA Labs Portfolio
 
-> 76 hands-on CCNA labs based on Jeremy's IT Lab course.
-> [Course Link on Youtube](https://www.youtube.com/playlist?list=PLxbwE86jKRgMQ4HTuaJ7yQgA2BoNwY9ct)
-
 ## 📊 Progress
 
 - **Total Labs:** 76
