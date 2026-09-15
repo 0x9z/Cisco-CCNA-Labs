@@ -1,3 +1,7 @@
+![CCNA](https://img.shields.io/badge/CCNA-RIPv2-blue)
+![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-8.x-orange)
+![Status](https://img.shields.io/badge/Status-Verified-success)
+
 # RIPv2 Multi-Site Enterprise Network 
 
 ![Topology](topology.png)
