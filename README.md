@@ -1,12 +1,6 @@
 # CCNA Labs Portfolio
 
-## 📊 Progress
-
-- **Total Labs:** 76
-- **Completed:** 5 / 76
-- **Status:** In Progress 🚧
-
-## 📂 Lab Index
+## Lab Index
 
 | # | Labs | Links |
 |---|-----|--------|
@@ -19,12 +13,12 @@
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 - Cisco Packet Tracer 8.x
 
 ---
 
-## 👤 Author
+## Author
 **Anas (0x9z)**
 - GitHub: [@0x9z](https://github.com/0x9z)
 
