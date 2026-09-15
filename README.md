@@ -11,39 +11,21 @@ configuration files, and a detailed README.
 
 ## 📚 Lab Index
 
-### 🔐 Router Security
-| Lab | Topic | Status |
-|-----|-------|--------|
-| [Lab 03 — Console & VTY Security](./01-Basic-Router-Security/Lab-3) | Passwords, `enable secret`, encryption | ✅ |
-
-### 📡 Static Routing
-| Lab | Topic | Status |
-|-----|-------|--------|
-| [Static Routing Lab 1](./02-Static-Routing/Static-Routing-Lab1) | 4 routers, 2 PCs, static routes | ✅ |
-
-### 🧮 VLSM
-| Lab | Topic | Status |
-|-----|-------|--------|
-| [VLSM Lab 1](./03-VLSM/VLSM-Lab1) | 4 LANs, VLSM subnetting, /30 WAN | ✅ |
-
-### 🔄 Dynamic Routing
-| Lab | Topic | Status |
-|-----|-------|--------|
-| [RIPv2 Multi-Site Enterprise](./04-RIPv2/RIPv2-Multi-Site) | 4 routers, 3 LANs, 24 PCs, 9 servers | ✅ |
-| OSPF Single-Area | Coming soon | 🚧 |
-
-### 🌐 Switching & VLANs
-| Lab | Topic | Status |
-|-----|-------|--------|
-| VLANs & Trunking | Coming soon | 🚧 |
-| Inter-VLAN Routing | Coming soon | 🚧 |
-
-### 🔒 Security & Services
-| Lab | Topic | Status |
-|-----|-------|--------|
-| ACLs | Coming soon | 🚧 |
-| NAT / PAT | Coming soon | 🚧 |
-| DHCP | Coming soon | 🚧 |
+| # | Lab | Topic | Folder | Status |
+|---|-----|-------|--------|--------|
+| 01 | Console & VTY Security | Router security, passwords, encryption | `01-Basic-Router-Security/Lab-3` | ✅ |
+| 02 | Static Routing Lab 1 | 4 routers, 2 PCs, static routes | `02-Static-Routing/Static-Routing-Lab1` | ✅ |
+| 03 | VLSM Lab 1 | 4 LANs, VLSM subnetting, /30 WAN | `03-VLSM/VLSM-Lab1` | ✅ |
+| 04 | RIPv2 Multi-Site Enterprise | 4 routers, 3 LANs, 24 PCs, 9 servers | `04-RIPv2/RIPv2-Multi-Site` | ✅ |
+| 05 | OSPF Single-Area | Link-state dynamic routing | `05-OSPF/` | 🚧 |
+| 06 | VLANs & Trunking | Layer 2 segmentation | `06-VLANs/` | 🚧 |
+| 07 | Inter-VLAN Routing | Router-on-a-stick, L3 switching | `07-Inter-VLAN/` | 🚧 |
+| 08 | ACLs | Standard, extended, named | `08-ACLs/` | 🚧 |
+| 09 | NAT / PAT | Static, dynamic, overload | `09-NAT/` | 🚧 |
+| 10 | DHCP | Router as server, relay | `10-DHCP/` | 🚧 |
+| 11 | IPv6 | Addressing, static, OSPFv3 | `11-IPv6/` | 🚧 |
+| 12 | Wireless | WLC, APs, SSIDs, WPA2 | `12-Wireless/` | 🚧 |
+| 13 | Automation | Python, REST, JSON | `13-Automation/` | 🚧 |
 
 ## 🧠 Skills Covered
 
