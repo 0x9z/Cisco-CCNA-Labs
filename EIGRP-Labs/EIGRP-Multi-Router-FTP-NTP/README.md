@@ -1,6 +1,6 @@
 # EIGRP Multi-Router Network with FTP & NTP
 
-![Topology]([topology.png](https://github.com/0x9z/Cisco-CCNA-Labs/blob/main/EIGRP-Labs/EIGRP-Multi-Router-FTP-NTP/Topology.png))
+![Topology](https://github.com/0x9z/Cisco-CCNA-Labs/blob/main/EIGRP-Labs/EIGRP-Multi-Router-FTP-NTP/Topology.png)
 
 ## 📌 Overview
 
