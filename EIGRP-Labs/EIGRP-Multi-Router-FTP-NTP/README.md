@@ -1,6 +1,6 @@
 # EIGRP Multi-Router Network with FTP & NTP
 
-![Topology](topology.png)
+![Topology](topology.)
 
 ## 📌 Overview
 
@@ -24,7 +24,7 @@ the serial hub routers.
 
 ## 📊 Topology
 
-![Topology](topology.png)
+![Topology](topology.)
 
 ### LANs
 
