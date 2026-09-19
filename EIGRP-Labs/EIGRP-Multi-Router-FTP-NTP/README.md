@@ -24,7 +24,7 @@ the serial hub routers.
 
 ## 📊 Topology
 
-![Topology](topology.png)
+![Topology](./topology.png)
 
 ### LANs
 
@@ -280,7 +280,7 @@ D    192.168.5.0/24 [90/20515072]  via 88.200.15.2, Serial3/0
 
 | Topology | EIGRP Routes | NTP Status | FTP Session |
 |----------|--------------|------------|-------------|
-| `topology.png` | `show-ip-route.png` | `show-ntp-status.png` | `ftp-session.png` |
+| ![Topology](./topology.png) | ![Show IP Route](./show-ip-route.png) | ![NTP Status](./show-ntp-status.png) | ![FTP Session](./ftp-session.png) |
 
 ## 👤 Author
 
