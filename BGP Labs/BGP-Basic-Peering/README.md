@@ -158,9 +158,10 @@ R1#show ip bgp neighbors 10.0.0.2 routes
 | Topology |
 |----------|
 |![Topology](topology.png)|
-| ![Show IP BGP Summary - 1](show-ip-bgp-summary-1.png) |
-| ![Show IP BGP Summary - 2](show-ip-bgp-summary-2.png) |
-| ![Show IP BGP Summary - 3](show-ip-bgp-summary-3.png) |
+| ![Show IP BGP Summary](show-ip-bgp-summary.png) |
+| ![Show IP BGP Neighbors - 1](show-ip-bgp-neighbors-1.png) |
+| ![Show IP BGP Neighbors - 2](show-ip-bgp-neighbors-2.png) |
+| ![Show IP BGP Neighbors - 3](show-ip-bgp-neighbors-3.png) |
 | ![Show IP Route](show-ip-route.png) |
 
 ## 👤 Author
