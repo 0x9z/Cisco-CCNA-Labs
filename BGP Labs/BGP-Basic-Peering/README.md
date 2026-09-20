@@ -157,7 +157,11 @@ R1#show ip bgp neighbors 10.0.0.2 routes
 
 | Topology | BGP Neighbors | Route Table |
 |----------|---------------|-------------|
-| `topology.png` | `show-ip-bgp-summary.png` | `show-ip-route.png` |
+|![Topology](topology.png)|
+| ![Show IP BGP Summary - 1](show-ip-bgp-summary-1.png) |
+| ![Show IP BGP Summary - 2](show-ip-bgp-summary-2.png) |
+| ![Show IP BGP Summary - 3](show-ip-bgp-summary-3.png) |
+| ![Show IP Route](show-ip-route.png) |
 
 ## 👤 Author
 
