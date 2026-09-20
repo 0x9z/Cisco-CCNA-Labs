@@ -204,10 +204,13 @@ Trace complete.
 
 ## 📸 Screenshots
 
-| Topology | BGP Summary | Route Table | Ping Test |
-|----------|-------------|-------------|-----------|
-| `topology.png` | `show-ip-bgp-summary.png` | `show-ip-route.png` | `ping-test.png` |
 
+|----------|
+| ![Topology](topology.png) |
+| ![Show IP BGP Summary](show-ip-bgp-summary.png) |
+| ![Show IP Route](show-ip-route.png) |
+| ![Ping](ping.png) |
+|----------|
 ## 👤 Author
 
 **Zero** — Linux & IT Infrastructure Specialist
