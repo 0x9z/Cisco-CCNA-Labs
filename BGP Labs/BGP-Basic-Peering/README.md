@@ -155,8 +155,8 @@ R1#show ip bgp neighbors 10.0.0.2 routes
 
 ## 📸 Screenshots
 
-| Topology | BGP Neighbors | Route Table |
-|----------|---------------|-------------|
+| Topology |
+|----------|
 |![Topology](topology.png)|
 | ![Show IP BGP Summary - 1](show-ip-bgp-summary-1.png) |
 | ![Show IP BGP Summary - 2](show-ip-bgp-summary-2.png) |
