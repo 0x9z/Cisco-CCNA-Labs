@@ -216,9 +216,9 @@ S-R3         Ser 2/0          151            R       PT1000      Ser 2/0
 
 | Topology |
 |----------|
-| topology.png |
-| tracert.png |
-| ftp-session.png |
+| ![Topology](topology.png) |
+| ![Tracert](tracert.png) |
+| ![FTP Session](ftp-session.png) |
 
 ## 👤 Author
 
