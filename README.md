@@ -22,7 +22,7 @@ configuration files, and a detailed README.
 | 07 | Inter-VLAN Routing | Router-on-a-stick, L3 switching | `07-Inter-VLAN/` | 🚧 |
 | 08 | ACLs | Standard, extended, named | `08-ACLs/` | 🚧 |
 | 09 | NAT / PAT | Static, dynamic, overload | `09-NAT/` | 🚧 |
-| 10 | DHCP | Router as server, relay | `10-DHCP/` | 🚧 |
+| 10 | DHCP | Router as server, relay | `10-DHCP/` | ✅ |
 | 11 | IPv6 | Addressing, static, OSPFv3 | `11-IPv6/` | 🚧 |
 | 12 | Wireless | WLC, APs, SSIDs, WPA2 | `12-Wireless/` | 🚧 |
 | 13 | Automation | Python, REST, JSON | `13-Automation/` | 🚧 |
