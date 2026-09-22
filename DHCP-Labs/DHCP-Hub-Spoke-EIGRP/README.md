@@ -241,13 +241,6 @@ Trace complete.
 
 
 
-| Screenshots |
-|----------|
-| topology.png |
-| show-ip-dhcp-binding.png |
-| show-ip-route.png |
-| tracert.png |
-
 ## Author
 
 **Zero** — Linux & IT Infrastructure Specialist
