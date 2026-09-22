@@ -1,4 +1,4 @@
-# DHCP Hub-and-Spoke Network with EIGRP
+# DHCP Hub-and-Spoke Network with EIGRP :
 
 ![Topology](topology.png)
 
