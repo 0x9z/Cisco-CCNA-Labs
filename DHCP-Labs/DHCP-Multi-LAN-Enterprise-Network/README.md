@@ -2,6 +2,8 @@
 
 ## Overview
 
+![TOPOLOGY](topology.png)
+
 A small enterprise network with two office LANs and a centralized DHCP server located in a separate subnet (IT Servers Room). Since DHCP discovery messages are broadcast and routers don't forward broadcasts between subnets by default, this lab demonstrates **DHCP Relay** (`ip helper-address`) to let clients reach a remote DHCP server through a router.
 
 This is a more realistic scenario than a router-based local DHCP pool — in real enterprise networks, DHCP is usually centralized on a dedicated server, not configured per-router.
