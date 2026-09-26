@@ -2,6 +2,8 @@
 
 ## 📌 Overview
 
+![Topology](topology.png)
+
 A large-scale enterprise network built in Cisco Packet Tracer, connecting a main site, a wireless branch, and a remote office across an **11-router serial EIGRP chain**. The main site hosts centralized DHCP, NTP, and FTP servers; a wireless LAN (phones, laptops, tablets) connects through an Access Point at the far end of the chain and relies on **DHCP relay** across all 11 hops to reach the central DHCP server. A separate remote branch (IP phone + local server) connects through a different point in the chain.
 
 This lab stress-tests EIGRP convergence, DHCP relay, and end-to-end connectivity across a long serial topology — deliberately longer than any real-world design would use, to see how far these mechanisms actually scale.
