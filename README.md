@@ -72,24 +72,6 @@ Hands-on Cisco networking labs built in Packet Tracer — routing, switching, DH
 
 ---
 
-## Roadmap
-
-- [x] Static routing
-- [x] VLSM
-- [x] RIPv2
-- [x] EIGRP
-- [x] BGP
-- [x] DHCP
-- [ ] OSPF
-- [ ] VLANs
-- [ ] ACLs
-- [ ] NAT / PAT
-- [ ] IPv6
-- [ ] Wireless
-- [ ] Automation
-
----
-
 ## Author
 
 **Zero** — Linux & IT Infrastructure Specialist
