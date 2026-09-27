@@ -1,6 +1,9 @@
 # VLSM Multi-LAN Enterprise Network
 
 ## Scenario
+
+![Topology](topology.png)
+
 Design and configure a network with 4 LANs of varying sizes, connected through 2 routers via a point-to-point link. Subnet the 192.168.5.0/24 network using VLSM to efficiently address each LAN, assign the first usable IP to each PC and the last usable IP to each router interface, then configure static routing so all PCs can reach each other.
 
 **Requirements:**
